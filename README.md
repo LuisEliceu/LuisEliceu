@@ -10,7 +10,7 @@ Sou um desenvolvedor iniciante focado em aprender, evoluir e conquistar minha pr
 
  ## Habilidades em desenvolvimento 📖
 
-<div align="center">  
+<div>  
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
