@@ -21,7 +21,7 @@ Sou um desenvolvedor iniciante focado em aprender, evoluir e conquistar minha pr
 </div>
 
 <div align="center">
-  <img src="https://shields.io" alt="HTML" />
+  <img src="[https://shields.io](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML" />
   <img src="https://shields.io" alt="CSS" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
